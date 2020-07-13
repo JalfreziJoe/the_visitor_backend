@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "jalfrezi-joe",
+    "DB_PASS": "nIUnehwjVxXEAlD8",
+    "DB_NAME": "visitor",
+    "JWT_KEY": "space_pigs"
+  }
+}
